@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=190&section=header&text=Augusto%20Doldan&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Product%20Manager%20%C2%B7%20Analista%20de%20Sistemas%20%C2%B7%20Logistica%20de%20ultima%20milla&descSize=16&descAlignY=62" alt="Augusto Doldán" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=190&section=header&text=Augusto%20Doldan&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Product%20Manager%20%C2%B7%20Analista%20de%20Sistemas%20%C2%B7%20Abogado&descSize=16&descAlignY=62" alt="Augusto Doldán" width="100%" />
 
 🌎 Argentina · [LinkedIn](https://www.linkedin.com/in/augustodoldan/)
 
